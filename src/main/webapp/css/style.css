@@ -145,6 +145,13 @@ table#report_list .report_title {
     width: 37%;
 }
 
+table#report_list .report_in {
+    width: 20%;
+}
+table#report_list .report_out {
+    width: 20%;
+}
+
 table#report_list .report_action {
     width: 13%;
 }
